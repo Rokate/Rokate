@@ -2,10 +2,9 @@
 
  [![Stats](https://github-readme-stats.vercel.app/api?username=rokate&show_icons=true&theme=merko)](https://github-readme-stats.vercel.app/api?username=rokate&show_icons=true&theme=merko)
  
- 
+ <img align='right' src="https://i.ibb.co/tXpDqJ1/image.jpg" width="300">
 
-<img align='right' src="https://i.ibb.co/tXpDqJ1/image.jpg" width="300">
-
+<h2> </h2>
 📫 How to reach me:   
 
 <a href="mailto:rokate1990@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/> </a>
