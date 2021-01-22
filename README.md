@@ -5,7 +5,7 @@
 
 <h1> HI! I'm RoKate! </h1>
 
-<img align='right' src="https://i.ibb.co/tXpDqJ1/image.jpg" width="400">
+<img align='right' src="https://i.ibb.co/tXpDqJ1/image.jpg" width="300">
 
 📫 How to reach me:   
 
