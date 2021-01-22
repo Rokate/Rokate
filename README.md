@@ -1,6 +1,8 @@
 <h1>HI! I'm RoKate! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h1>
+
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-#### 📫 How to reach me:   
+
+📫 How to reach me:   
 
 <a href="mailto:rokate1990@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/> </a>
   - 🔭 I’m currently working as a Software Developer at Home
