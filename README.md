@@ -1,4 +1,4 @@
-<h1>HI! I'm RoKate! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h1>
+<h1> <img src="https://archive-media-1.nyafuu.org/w/image/1384/26/1384269423659.jpg" width="50">HI! I'm RoKate! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h1>
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
