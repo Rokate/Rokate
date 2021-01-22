@@ -5,7 +5,7 @@
 
 <h1> HI! I'm RoKate! </h1>
 
-<img align='right' src="https://archive-media-1.nyafuu.org/w/image/1384/26/1384269423659.jpg" width="300">
+<img align='right' src="https://i.ibb.co/tXpDqJ1/image.jpg" width="400">
 
 📫 How to reach me:   
 
