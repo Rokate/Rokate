@@ -1,6 +1,8 @@
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="210">
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200">
 
  [![Stats](https://github-readme-stats.vercel.app/api?username=rokate&show_icons=true&theme=merko)](https://github-readme-stats.vercel.app/api?username=rokate&show_icons=true&theme=merko)
+ 
+ 
 
 <img align='right' src="https://i.ibb.co/tXpDqJ1/image.jpg" width="300">
 
