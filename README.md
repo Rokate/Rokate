@@ -3,7 +3,7 @@
 #### 📫 How to reach me:   
 
 <a href="mailto:rokate1990@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/> </a>
-  - 🔭 I’m currently working as a Software Developer in Home
+  - 🔭 I’m currently working as a Software Developer at Home
   - 🌱 I’m currently learning Machine Learning and Big Data
   - 💬 Ask me about Python
   - 😄 Pronouns: He / Him
