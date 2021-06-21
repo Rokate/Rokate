@@ -11,7 +11,7 @@
   - 🔭 I’m currently working as a Software Developer in Christmas Island
   - 🌱 I’m currently learning Machine Learning and Big Data
   - 💬 Ask me about Python
-  - 😄 Pronouns: He / Him
+  - 😄 Pronouns: brother
   
   
   ![:name](https://count.getloli.com/get/@rokate?theme=gelbooru-h)
