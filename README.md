@@ -1,8 +1,4 @@
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="190">
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=rokate&show_icons=true&theme=merko)](https://github-readme-stats.vercel.app/api?username=rokate&show_icons=true&theme=merko)
- 
- <h1> </h1>
 <img align='right' src="https://i.ibb.co/tXpDqJ1/image.jpg" width="300">
 
 
